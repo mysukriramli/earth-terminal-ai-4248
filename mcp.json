@@ -1,0 +1,15 @@
+{
+  "name": "earth-terminal-ai-4248",
+  "version": "1.0.0",
+  "description": "Deterministic Earth-scale geospatial intelligence microservice providing spatial analytics, risk metrics, and site selection rankings for autonomous physical-world agents.",
+  "tools": [
+    {
+      "name": "service_status",
+      "description": "Get current status and computations from this autonomous service",
+      "inputSchema": {
+        "type": "object",
+        "properties": {}
+      }
+    }
+  ]
+}
